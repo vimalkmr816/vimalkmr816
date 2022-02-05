@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack Development.**
 
-- 💬 Ask me about **HTML,CSS,JavaScript and SASS**
+- 💬 Ask me about **HTML,CSS and JavaScript.**
 
 - 📫 How to reach me **vimalkmr816@gmail.com**
 
