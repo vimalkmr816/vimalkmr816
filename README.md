@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a style="padding:5px" href="https://twitter.com/vimalkmr816" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vimalkmr816" height="30" width="40" /></a>
+<a style="padding:5px" href="https://twitter.com/vimalkmr" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vimalkmr816" height="30" width="40" /></a>
 <a style="padding:5px" href="https://linkedin.com/in/vimalkmr816" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimalkmr816" height="30" width="40" /></a>
 <a style="padding:5px" href="https://instagram.com/vimaallll" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vimaallll" height="30" width="40" /></a>
 <a style="padding:5px" href="https://www.hackerrank.com/vimalkmr816" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vimalkmr816" height="30" width="40" /></a>
