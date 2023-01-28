@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Vimal Kumar</h1>
 <h3 align="center">Just an electronics major student exploring computer science.</h3>
 
-- 🌱 I’m currently learning **Full Stack Development.**
+- 🌱 I’m currently working as a **Frontend Developer**
 
-- 💬 Ask me about **HTML,CSS and JavaScript.**
+- 💬 Ask me about **Javascript, Typescript, ReactJs, NextJs**
 
 - 📫 How to reach me **vimalkmr816@gmail.com**
 
